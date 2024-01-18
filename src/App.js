@@ -54,7 +54,7 @@ function App() {
       {/* <Button variant="primary">Primary</Button> */}
       <Navbar bg="light" variant="light">
         <Container>
-          <Navbar.Brand href="#home">Navbar</Navbar.Brand>
+          <Navbar.Brand href="#home">Shop</Navbar.Brand>
           <Nav className="mr-auto">
             <Nav.Link onClick={() => { navigate('/') }}>Home</Nav.Link>
             {/* 페이지 이동 버튼 - Link 는 a 태그와 비슷 */}
